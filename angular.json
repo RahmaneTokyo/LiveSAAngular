@@ -94,6 +94,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -127,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "angularTest"
+  "defaultProject": "angularTest",
+  "cli": {
+    "analytics": "c0948c93-58ae-4f89-8b68-47f35a459b88"
+  }
 }
